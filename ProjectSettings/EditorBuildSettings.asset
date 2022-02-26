@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 10d0b98bae4ecfc4bb782f918344be0f
+  - enabled: 1
+    path: Assets/Scenes/SetPlayerName.unity
+    guid: d02c0579cea480e4e8c83f6d139d06bd
+  - enabled: 1
+    path: Assets/Scenes/SaveList.unity
+    guid: 86093964cde80d140925b164a6e18b7d
+  - enabled: 1
+    path: Assets/Scenes/Camp.unity
+    guid: 8c26356745c88114f97d2a6ae42d5b5c
+  - enabled: 1
+    path: Assets/Scenes/Field.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: 132413e4f14a9bb4cb95c55b7ad0e82b
+  - enabled: 1
+    path: Assets/Scenes/Dungeon.unity
+    guid: ee9bf724b4d2d3f479ed3873811156be
+  m_configObjects: {}
